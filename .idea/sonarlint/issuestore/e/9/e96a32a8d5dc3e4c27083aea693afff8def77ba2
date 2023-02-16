@@ -1,0 +1,27 @@
+
+h
+java:S1192{"RDefine a constant instead of duplicating this literal "Invalid user id!
+" 3 times.(´÷å
+g	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¥ÌÁ
+g	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÄ®™
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¥ÌÁ
+g	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏîÓí
+1
+java:S3626b"Remove this redundant jump.(ûÁİ…
+O
+java:S1854³"8Remove this useless assignment to local variable "user".(ï‚è©
+@
+java:S1481³")Remove this unused "user" local variable.(ï‚è©
+[
+java:S1117Ï"?Rename "friendships" which hides the field declared at line 27.(¨Ï‡üÿÿÿÿ
+X
+java:S1117ã"<Rename "messages" which hides the field declared at line 28.(ÖòÍ‰øÿÿÿÿ
+i
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ê¡å×
+:
+java:S1659ÿ"#Declare "maxim" on a separate line.(¯šªÎ
+L
+java:S1128
+"6Remove this unused import 'src.repository.Repository'.(•Ùß™
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª

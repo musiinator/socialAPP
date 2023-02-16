@@ -1,0 +1,16 @@
+
+…
+java:S1192"jDefine a constant instead of duplicating this literal "jdbc:postgresql://localhost:5432/postgres" 3 times.(š²§áøÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "postgres" 6 times.(š²§áøÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(ê‰úÆúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(°°äê
+Z
+java:S1854"?Remove this useless assignment to local variable "serviceUser".(µñÌ‚ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(æô™¤
+K
+java:S1481"0Remove this unused "serviceUser" local variable.(µñÌ‚ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(®óÅ“øÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ

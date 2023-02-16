@@ -1,0 +1,37 @@
+
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğê
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òëİÙúÿÿÿÿ
+f	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íëì„
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òëİÙúÿÿÿÿ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íëì„
+j
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ
+c
+java:S2095$"HUse try-with-resources or close this "Connection" in a "finally" clause.( éæ¶ıÿÿÿÿ
+j
+java:S2095k"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ
+c
+java:S2095j"HUse try-with-resources or close this "Connection" in a "finally" clause.( éæ¶ıÿÿÿÿ
+O
+java:S3516f"9Refactor this method to not always return the same value.(½÷÷´
+R
+java:S1854!"7Remove this useless assignment to local variable "idS".(şµÊøÿÿÿÿ
+C
+java:S1481!"(Remove this unused "idS" local variable.(şµÊøÿÿÿÿ
+P
+java:S1161v":Add the "@Override" annotation above this method signature(ò÷™Í
+G
+java:S1481y",Remove this unused "message" local variable.(¹õ¢Àşÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'src.domain.Friendship'.(º±°¹ùÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'src.domain.FriendshipStatus'.(‡Û¶äøÿÿÿÿ
+G
+java:S1128",Remove this unused import 'src.domain.User'.(©Ó“ëÿÿÿÿÿ
+I
+java:S1128
+".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ
+C
+java:S1128"-Remove this unused import 'java.time.ZoneId'.( Æ½“
+G
+java:S1128"1Remove this unused import 'java.time.ZoneOffset'.(ìÍÄË

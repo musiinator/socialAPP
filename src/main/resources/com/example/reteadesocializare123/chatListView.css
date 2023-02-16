@@ -1,0 +1,20 @@
+.list-view {
+    -fx-background-color: #FFFFFF; /* set background color for table view */
+    -fx-border-color:black;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+}
+
+.list-cell {
+    -fx-background-color: transparent; /* set background color for table view */
+    -fx-border-color: #ddd; /* add a border around list items */
+    -fx-border-width: 1px;
+    -fx-padding: 10px; /* add padding to list items */
+}
+.list-view .list-cell:selected {
+    -fx-background-color: #8d8c8c;
+}
+.list-view .list-cell {
+    -fx-background-insets: -5 0 -5 0;
+}
+

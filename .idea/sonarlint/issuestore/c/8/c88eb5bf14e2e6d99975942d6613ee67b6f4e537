@@ -1,0 +1,38 @@
+
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğê
+j
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ
+c
+java:S2095v"HUse try-with-resources or close this "Connection" in a "finally" clause.( éæ¶ıÿÿÿÿ
+c
+java:S2095#"HUse try-with-resources or close this "Connection" in a "finally" clause.( éæ¶ıÿÿÿÿ
+j
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ
+O
+java:S3516r"9Refactor this method to not always return the same value.(³ˆ©Å
+W
+java:S1117*"<Rename "username" which hides the field declared at line 19.(“£÷ÿÿÿÿÿ
+R
+java:S1117+"<Rename "password" which hides the field declared at line 20.(¾ê¶¶
+W
+java:S1117M"<Rename "username" which hides the field declared at line 19.(“£÷ÿÿÿÿÿ
+R
+java:S1117N"<Rename "password" which hides the field declared at line 20.(¾ê¶¶
+V	java:S125e"<This block of commented-out lines of code should be removed.(²­¨€øÿÿÿÿ
+O
+java:S3252g"9Use static access with "src.service.Utils" for "encrypt".(±î¶
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(ò÷™Í
+B
+java:S1481ƒ"&Remove this unused "u" local variable.(ªõÖ½øÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'src.domain.Friendship'.(º±°¹ùÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'src.exceptions.LackException'.(ŠÇáã
+G
+java:S1128	"1Remove this unused import 'java.math.BigInteger'.(»Çâ€
+N
+java:S1128
+"8Remove this unused import 'java.security.MessageDigest'.(Œğ²»
+^
+java:S1128"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾şÿÿÿÿ

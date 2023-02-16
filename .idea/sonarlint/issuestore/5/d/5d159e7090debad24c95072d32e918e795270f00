@@ -1,0 +1,14 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø›êÄ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦á÷‚þÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø›êÄ
+•
+java:S1130;"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(‚÷¯è
+G
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
+C
+java:S1128"-Remove this unused import 'java.util.Base64'.(ëŠ»Õ
+H
+java:S1128	"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ

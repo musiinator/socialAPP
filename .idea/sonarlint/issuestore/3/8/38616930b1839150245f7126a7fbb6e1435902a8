@@ -1,0 +1,27 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÿš¿
+D
+java:S1128".Remove this unused import 'src.domain.Entity'.(€Æª’
+M
+java:S1128"2Remove this unused import 'src.domain.Friendship'.(º±°¹ùÿÿÿÿ
+G
+java:S1128",Remove this unused import 'src.domain.User'.(©Ó“ëÿÿÿÿÿ
+T
+java:S1128">Remove this unused import 'src.exceptions.DuplicateException'.(ü½­Ã
+Z
+java:S1128"?Remove this unused import 'src.exceptions.FriendshipException'.(ÂºéÂúÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'src.exceptions.LackException'.(ŠÇáã
+Z
+java:S1128	"?Remove this unused import 'src.exceptions.ValidationException'.(à•´ýûÿÿÿÿ
+H
+java:S1128
+"2Remove this unused import 'src.service.Constants'.(„Ô…š
+O
+java:S1128"4Remove this unused import 'src.service.ServiceUser'.(Þ‘ÿ¾üÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ

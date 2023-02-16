@@ -1,0 +1,19 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Öî€
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Áßôİúÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ú×àÿÿÿÿÿ
+_
+java:S2259."DA "NullPointerException" could be thrown; "server" is nullable here.(º¦ıÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(äÍò
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Öî€
+U
+java:S1117.":Rename "socket" which hides the field declared at line 41.(º¦ıÿÿÿÿ
+M
+java:S1117/"7Rename "out" which hides the field declared at line 42.(ÒØ½
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
+4
+java:S1128
+"Remove this duplicated import.(­‡àú

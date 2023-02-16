@@ -1,0 +1,8 @@
+0,Alin,Musat
+2,Ganea,Alex
+3,Radu,Suciu
+4,Dit,Rares
+5,Groza,Andrei
+6,Radu,Cindea
+7,Tudor,Andreica
+8,George,Marian

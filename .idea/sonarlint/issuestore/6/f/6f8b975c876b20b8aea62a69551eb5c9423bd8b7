@@ -1,0 +1,28 @@
+
+c
+java:S2095:"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ó‘°¤øÿÿÿÿ
+g
+java:S20957"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ
+d
+java:S20958"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(è¥ ®úÿÿÿÿ
+b
+java:S2095;"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(´ÓñÊ
+c
+java:S20956"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(»£Ğıÿÿÿÿ
+N
+java:S5993"9Change the visibility of this constructor to "protected".(ûšı
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(êè®Ä
+U	java:S899J";Do something with the "boolean" value returned by "delete".(°æùõüÿÿÿÿ
+i
+java:S4042J"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(°æùõüÿÿÿÿ
+W	java:S899L"=Do something with the "boolean" value returned by "renameTo".(ùİ‡ôùÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'src.domain.Friendship'.(º±°¹ùÿÿÿÿ
+G
+java:S1128",Remove this unused import 'src.domain.User'.(©Ó“ëÿÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'src.domain.validators.Validator'.(Éºñ´
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
