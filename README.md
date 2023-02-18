@@ -1,4 +1,4 @@
-# SocialAPP
+# Social Network App
 
 Loyal Chain is a JavaFX project similar to a social network app that allows users to create secured personal accounts and interact with other users.
 
