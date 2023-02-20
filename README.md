@@ -3,7 +3,7 @@
 Loyal Chain is a JavaFX project similar to a social network app that allows users to create secured personal accounts and interact with other users.
 
 This application allows people who use it to connect with others by sending and accepting friend requests. Once connected, they can chat with friends
-and keep in touch with them through the app's messaging feature. 
+and keep in touch with them through the app's messaging feature.
 
 Once a user makes a friend request, other users can accept or decline the request. If the request is accepted, they become friends and they can start chatting. 
 
